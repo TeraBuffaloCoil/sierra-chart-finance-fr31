@@ -1,4 +1,4 @@
-# 
+# Sierra Chart provides professional-grade charting tools, real-time data, and customizable indicators for traders.
 
 
 
